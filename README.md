@@ -1,4 +1,9 @@
-# Nuts and Bolts problem solver
+<div align="center">
+  <h1>Nuts and Bolts problem solver</h1>
+</div>
+<div align="center">
+  <img src="images/nuts_and_bolts.png" width="600" alt="NutsAndBolts">
+</div>
 
 ## Descripción
 
@@ -19,3 +24,10 @@ Fuente: [GeeksforGeeks - Nuts & Bolts Problem](https://www.geeksforgeeks.org/nut
 ```bash
 # ejecutar el script (cambiar el tamaño de los vectores en el código) 
 python nuts_and_bolts_solver.py
+```
+
+## Output de ejemplo
+
+<div align="center">
+  <img src="images/output.png" width="600" alt="output">
+</div>
